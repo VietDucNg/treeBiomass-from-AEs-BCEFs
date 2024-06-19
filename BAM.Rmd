@@ -1,0 +1,11 @@
+---
+title: "Tree biomass estimation using allometry"
+author:
+- name: <br>Viet Nguyen
+  affiliation: Faculty of Forest and Environment <br> Eberswalde University for Sustainable Development
+  email: Duc.Nguyen@hnee.de
+date: "June, 2021"
+output: html_notebook
+subtitle: "Tree- and Stand- Level Biomass Estimation for Scots Pine with Allometric Equations, Biomass Conversion and Expansion Factors"
+---
+
